@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://barath.xyz/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Oct 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://barath.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another Post</title>
-      <link>https://barath.xyz/posts/anotherpost/</link>
+      <link>http://localhost:1313/posts/anotherpost/</link>
       <pubDate>Fri, 18 Oct 2024 12:00:00 +0000</pubDate>
-      <guid>https://barath.xyz/posts/anotherpost/</guid>
+      <guid>http://localhost:1313/posts/anotherpost/</guid>
       <description>&lt;p&gt;building the aretemis - wearbles AI has been fun&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://barath.xyz/posts/firstpost/</link>
+      <link>http://localhost:1313/posts/firstpost/</link>
       <pubDate>Fri, 18 Oct 2024 12:00:00 +0000</pubDate>
-      <guid>https://barath.xyz/posts/firstpost/</guid>
+      <guid>http://localhost:1313/posts/firstpost/</guid>
       <description>&lt;p&gt;my career pivot have been hell of a story so
 if you are interested in that you should ask me&lt;/p&gt;</description>
     </item>
